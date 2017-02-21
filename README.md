@@ -14,5 +14,5 @@ It make it easier to bundle your code, so you know a minimized production js can
 In case you need extra assurance, this software is also licenced under [Creative Commons 0][license-cc0], you can pick your preferred licence.
 
 [license-cc0]: https://creativecommons.org/publicdomain/zero/1.0/
-[npm-badge]: https://img.shields.io/npm/v/stem-core.svg?style=flat-square
+[npm-badge]: https://img.shields.io/npm/v/establishment-node-core.svg?style=flat-square
 [npm-url]: https://www.npmjs.org/package/establishment-node-core
