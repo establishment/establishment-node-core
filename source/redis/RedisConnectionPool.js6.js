@@ -1,7 +1,7 @@
-var redis = require("redis");
+let redis = require("redis");
 
-var redisConnectionPool = new Map();
-var redisSharedConnectionPool = new Map();
+let redisConnectionPool = new Map();
+let redisSharedConnectionPool = new Map();
 
 class RedisConnectionPool {
     constructor() {
